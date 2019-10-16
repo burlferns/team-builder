@@ -1,0 +1,9 @@
+I used the command: 
+	npx create-react-app team-builder 
+to create the project and not the other command
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Then I ran the command 
+	yarn start
+inside the team-builder directory
